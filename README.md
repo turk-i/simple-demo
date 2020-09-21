@@ -1,2 +1,3 @@
-# simple-demo
-this is for tarining purpose
+# Simple Example Resp.
+
+this is for simple traning
